@@ -1,47 +1,47 @@
 # <% tp.file.title %>
 
-## 项目列表
-%%项目的今日快照%%
+## Project List
+%%A snapshot of the project today%%
 <% ```PeriodicPARA.File.list('1. Projects') %>
 
-## 日常记录
-- %%你的记录%%
+## Daily Record
+- %%Your Record%%
 
-## 习惯打卡
-%%打卡不会被统计为任务%%
-- [ ] 起床一杯水
-- [ ] 早餐
-- 喝水
+## Habit
+%%Habit will not be counted as a task%%
+- [ ] Drink a glass of water after wake up
+- [ ] Breakfast
+- Drink water
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
-- [ ] 原味英语
-- [ ] 项目耗时统计
+- [ ] English learning course
+- [ ] Project time statistics
 <%* let weekDay = moment(tp.file.title).weekday(); console.log(weekDay); if (weekDay + 1 <= 5) { -%>
-- 休息一下
+- Take a break
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
-- 站立式办公
+- Stand up and work
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
 	- [ ] +1
 	<%* } else { -%>
-- [ ] 记账 
+- [ ] Household accounting
 <%* } -%>
 
-## 精力分配
-%%今日的项目列表，根据耗时情况，自动统计项目耗时占比%%
+## Energy allocation
+%%Today's project list, according to the time consumed, automatic statistics project time consumed percentage%%
 ```PeriodicPARA
 ProjectListByTime
 ```
 
-## 今日完成
-%%今日完成的任务列表，从所有的笔记中提取%%
+## Completed today
+%%List of tasks completed today, extracted from all notes%%
 ```PeriodicPARA
 TaskDoneListByTime
 ```

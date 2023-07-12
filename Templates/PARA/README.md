@@ -1,23 +1,23 @@
 ---
 tags: 
-- 替换为当前项目标签
+- YourProjectTag
 ---
 
-%%本模版用于新建 Project/Area/Resource/Archive，将文件夹复制到对应目录，并重命名为你的 Project/Area/Resource/Archive%%
+%%This template can be used for new Project/Area/Resource/Archive, copy folder to the corresponding directory, and rename the Project for your /Area/Resource/Archive%%
 
 # README
-%%设置项目截止日期，及其结果描述%%
-- #替换为当前项目标签 截止日期 📅 2023-xx-xx
-- #替换为当前项目标签 结果描述
+%%Set the project deadline and its result description%%
+- [ ] #YourProjectTag deadline 📅 2023-xx-xx
+- #YourProjectTag key result
 
-## 任务
-%%根据当前文件的 [Metadata](https://help.obsidian.md/Editing+and+formatting/Metadata) 的 tags 字段查询任务，从所有的笔记中提取%%
+## Task
+%%Query tasks based on the tags field of the [Metadata](https://help.obsidian.md/Editing+and+formatting/Metadata) of the current file, extracted from all the notes%%
 ```PeriodicPARA
 TaskListByTag
 ```
 
 ## 列表
-%%根据当前文件的 [Metadata](https://help.obsidian.md/Editing+and+formatting/Metadata) 的 tags 字段查询子弹列表，从所有的笔记中提取%%
+%%Query bullets based on the tags field of the [Metadata](https://help.obsidian.md/Editing+and+formatting/Metadata) of the current file, extracted from all the notes%%
 ```PeriodicPARA
 BulletListByTag
 ```

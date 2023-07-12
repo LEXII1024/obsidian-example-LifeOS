@@ -20,8 +20,6 @@ group by folder
 ```tasks
 folder includes PeriodicNotes
 not done
-no due date
-no start date
 sort by filename reverse
 ```
 

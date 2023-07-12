@@ -1,37 +1,37 @@
-> 安排周度任务
+> Arrange weekly tasks
 
-%%分别从要事维度和角色维度安排任务%%
+%%Arrange tasks from the "First Things Dimension" and the "Role Dimension" respectively%%
 
-# 任务
-## 要事维度
-%%本周经历的项目列表，从本周的日记中提取，并自动统计项目耗时占比%%
+# Task
+## First Things Dimension
+%%A list of projects experienced during this week, extracted from this week's diary, with automatic statistics on the percentage of time spent on projects%%
 ```PeriodicPARA
 ProjectListByTime
 ```
 
-## 角色维度
-### 职员
+## Role Dimension
+### Employee
 - OKR
 <%* let weekNum = Number(tp.file.title.match(/-W(\d\d)/)[1]); if (weekNum%2 !== 0) { -%>
-- #工作/one-one 
-	- [ ] 与 xxx #工作/one-one
+- #work/one-one 
+	- [ ] #work/one-one with xxx
 <%* } -%>
 
-### 丈夫
-### 父亲
-### 儿子
-### 自己
-- 规划下一周
+### Husband
+### Father
+### Son
+### Myself
+- Planning for the next week
 
-# 复盘
-## 本周收集
-%%本周收集的任务列表，从本周的日记中提取%%
+# Review
+## Collected this week
+%%List of tasks collected this week from this week's diary%%
 ```PeriodicPARA
 TaskRecordListByTime
 ```
 
-## 本周完成
-%%本周完成的任务列表，从所有的笔记中提取%%
+## Completed this week
+%%List of tasks completed this week, extracted from all notes%%
 ```PeriodicPARA
 TaskDoneListByTime
 ```

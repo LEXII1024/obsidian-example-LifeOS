@@ -1,40 +1,40 @@
-> 安排月度任务
+> Arrange monthly tasks
 
-%%分别从要事维度和角色维度安排任务%%
+%%Arrange tasks from the "First Things Dimension" and the "Role Dimension" respectively%%
 
-# 任务
+# Task
 
-## 要事维度
-%%本月经历的项目列表，从本月的日记中提取，并自动统计项目耗时占比%%
+## First Things Dimension
+%%A list of projects experienced during this month, extracted from this month's diary, with automatic statistics on the percentage of time spent on projects%%
 ```PeriodicPARA
 ProjectListByTime
 ```
 
-## 角色维度
-### 职员
+## Role Dimension
+### Employee
 <%* let monthNum = Number(tp.file.title.match(/-(\d\d)/)[1]); if (monthNum%2 === 0) { -%>
-- #工作/one-one 
-	- [ ] 双月刊填写 #工作/琐事 📅 <% customJS.Date.lastDay(customJS.Date.parse()).month %>
+- #work/one-one 
+	- [ ] Fill in bimonthly #work/trivia 📅 <% customJS.Date.lastDay(customJS.Date.parse()).month %>
 <%* } -%>
 - OKR
-### 丈夫
-### 父亲
-- 购买小礼物 #家人/宝宝 
-### 儿子
-- 与 #家人/爸爸 通话一次
-- 与 #家人/妈妈 通话一次
-### 自己
-- 规划下一个月
+### Husband
+### Father
+- Buy a small gift #family/baby 
+### Son
+- One phone call with #family/dad
+- One phone call with #family/mom
+### Myself
+- Planning for the next month
 
-# 复盘
-## 本月收集
-%%本月收集的任务列表，从本月的日记中提取%%
+# Review
+## Collected this month
+%%List of tasks collected this month from this month's diary%%
 ```PeriodicPARA
 TaskRecordListByTime
 ```
 
-## 本月完成
-%%本月完成的任务列表，从所有的笔记中提取%%
+## Completed this month
+%%List of tasks completed this month, extracted from all notes%%
 ```PeriodicPARA
 TaskDoneListByTime
 ```
