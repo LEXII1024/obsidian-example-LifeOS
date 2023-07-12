@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4406a4e653a4816d",
+        "id": "6e04409fd4a53bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "e474887e4afd6da7",
+            "id": "b63bc76191736021",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HOME.canvas",
-                "viewState": {
-                  "x": -173.70790794979084,
-                  "y": 100.63690376569026,
-                  "zoom": -0.17327465477175688
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HOME.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,32 +146,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e474887e4afd6da7",
+  "active": "b63bc76191736021",
   "lastOpenFiles": [
-    "1. 任务列表.md",
-    "HOME.canvas",
-    "TASK.md",
-    "PeriodicNotes/2023/2023-Q2.md",
-    "PeriodicNotes/2023/2023.md",
-    "PeriodicNotes/2023/2023-Q1.md",
     "PeriodicNotes/2023/Weekly/2023-W22.md",
-    "PeriodicNotes/2023/Monthly/2023-06.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-04.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-03.md",
+    "PeriodicNotes/2023/Weekly/2023-W23.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-05.md",
     "PeriodicNotes/2023/Daily/06/2023-06-02.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-01.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
+    "Templates/PeriodicNotes/Daily.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-06.md",
+    "PeriodicNotes/2023/Daily/2023-06-05.md",
+    "Templates/PeriodicNotes/Monthly.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-03.md",
+    "2023-06-05.md",
     "3. Resources/EnglishLearning/README.md",
     "3. Resources/EnglishLearning",
     "3. Resources/BlockChain/README.md",
@@ -196,16 +182,20 @@
     "1. Projects/PKM-LifeOS/PeriodicPARA.md",
     "1. Projects/PKM-LifeOS/LifeOS.README.md",
     "1. Projects/PKM-LifeOS",
+    "PeriodicNotes/2023/Weekly/2023-W24.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-01.md",
+    "PeriodicNotes/Daily/2023-06-02.md",
+    "PeriodicNotes/Daily/2023-07-01.md",
+    "PeriodicNotes/Daily",
+    "TASK.md",
+    "HOME.canvas",
+    "1. Projects/分享-2023 WOT 分享会/README.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
     "PeriodicNotes/2023/Daily/06/2023-06-10.md",
     "PeriodicNotes/2023/Daily/06/2023-06-09.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-08.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-07.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-06.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-05.md",
-    "PeriodicNotes/Daily",
+    "4. Archives/育儿-宝宝起名/林奕如.png",
     "4. Archives/育儿-宝宝起名/program/package.json",
     "4. Archives/育儿-宝宝起名/program/index.js",
-    "4. Archives/育儿-宝宝起名/林奕如.png",
     "4. Archives/育儿-宝宝起名/五行",
     "4. Archives/育儿-宝宝起名/baby-name.png",
     "1. Projects/分享-2023 WOT 分享会/架构图/Polyrepo.svg",

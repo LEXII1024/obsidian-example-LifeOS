@@ -6,7 +6,7 @@
 
 ## First Things Dimension
 %%A snapshot of the area this quarter%%
-<% ```PeriodicPARA.File.list('2. Areas') %>
+<% PeriodicPARA.File.list('2. Areas') %>
 
 ## Role Dimension
 ### Employee
