@@ -11,8 +11,13 @@
             "id": "cca40c9aa9ae1e49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PeriodicNotes/2023/2023-Q2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PeriodicNotes/2023/2023-Q2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PeriodicNotes/2023/2023-Q2.md"
+              }
             }
           },
           {
@@ -127,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PeriodicNotes/2023/2023-Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,20 +155,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false
     }
   },
   "active": "cca40c9aa9ae1e49",
   "lastOpenFiles": [
-    "PeriodicNotes/2023/Weekly/2023-W27.md",
+    "PeriodicNotes/2023/2023.md",
+    "PeriodicNotes/2023/2023-Q1.md",
+    "PeriodicNotes/2023/Weekly/2023-W22.md",
+    "PeriodicNotes/2023/Monthly/2023-06.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-04.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-03.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-02.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-01.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
     "3. Resources/EnglishLearning/README.md",
     "3. Resources/EnglishLearning",
     "3. Resources/BlockChain/README.md",
@@ -173,30 +190,21 @@
     "1. Projects/PKM-LifeOS/PeriodicPARA.md",
     "1. Projects/PKM-LifeOS/LifeOS.README.md",
     "1. Projects/PKM-LifeOS",
-    "PeriodicNotes/2023/Weekly/2023-W26.md",
-    "HOME.canvas",
-    "README.md",
-    "PeriodicNotes/2023/Weekly/2023-W23.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
     "PeriodicNotes/2023/Daily/06/2023-06-10.md",
     "PeriodicNotes/2023/Daily/06/2023-06-09.md",
     "PeriodicNotes/2023/Daily/06/2023-06-08.md",
     "PeriodicNotes/2023/Daily/06/2023-06-07.md",
     "PeriodicNotes/2023/Daily/06/2023-06-06.md",
     "PeriodicNotes/2023/Daily/06/2023-06-05.md",
+    "PeriodicNotes/Daily/2023-07-06.md",
+    "PeriodicNotes/Daily",
+    "未命名.md",
+    "PeriodicNotes/2023/Weekly/2023-W23.md",
     "4. Archives/育儿-宝宝起名/规则.md",
-    "4. Archives/育儿-宝宝起名/程序起名.md",
-    "4. Archives/育儿-宝宝起名/五行/金.md",
-    "4. Archives/育儿-宝宝起名/五行/火.md",
-    "4. Archives/育儿-宝宝起名/五行/水.md",
-    "4. Archives/育儿-宝宝起名/五行/木.md",
-    "4. Archives/育儿-宝宝起名/五行/土.md",
     "4. Archives/育儿-宝宝起名/program/package.json",
-    "4. Archives/育儿-宝宝起名/program/nameCandidateList.md",
     "4. Archives/育儿-宝宝起名/program/index.js",
     "4. Archives/育儿-宝宝起名/林奕如.png",
     "4. Archives/育儿-宝宝起名/五行",
-    "4. Archives/育儿-宝宝起名/program",
     "4. Archives/育儿-宝宝起名/baby-name.png",
     "1. Projects/分享-2023 WOT 分享会/架构图/Polyrepo.svg",
     "1. Projects/分享-2023 WOT 分享会/架构图/Monorepo.svg",
@@ -206,6 +214,7 @@
     "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/repo-hero-logo-light.svg",
     "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.svg",
     "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.png",
+    "HOME.canvas",
     "Templates/HOME.canvas",
     "hello/HOME.canvas",
     "hello/Templates/HOME.canvas"
