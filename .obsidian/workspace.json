@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b027b0971fb6759",
+        "id": "d77ac3b57274c7c7",
         "type": "tabs",
         "children": [
           {
-            "id": "7accf020d9529df9",
+            "id": "e721335b4e7db479",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "HOME.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": 130,
+                  "zoom": -0.0013389282082978875
+                }
+              }
             }
           }
         ]
@@ -108,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOME.canvas"
+              }
             }
           },
           {
@@ -127,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,55 +168,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7accf020d9529df9",
+  "active": "e721335b4e7db479",
   "lastOpenFiles": [
-    "PeriodicNotes/2023/Daily/06/2023-06-02.md",
-    "PeriodicNotes/2023/Weekly/2023-W22.md",
     "HOME.canvas",
-    "TASK.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-01.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-04.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-03.md",
-    "PeriodicNotes/2023/2023.md",
-    "PeriodicNotes/2023/2023-Q2.md",
-    "PeriodicNotes/2023/2023-Q1.md",
-    "PeriodicNotes/2023/Monthly/2023-06.md",
-    "1. Projects/PKM-LifeOS/LifeOS.README.md",
-    "2. Areas/Work/Work.README.md",
-    "2. Areas/PKM/PKM.README.md",
-    "Templates/PeriodicNotes/Yearly.md",
-    "PeriodicNotes/2023/Weekly/2023-W23.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-05.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-08.md",
-    "1. Projects/PKM-LifeOS/PeriodicPARA.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
     "3. Resources/EnglishLearning/README.md",
     "3. Resources/EnglishLearning",
     "3. Resources/BlockChain/README.md",
     "3. Resources/BlockChain",
+    "2. Areas/Work/Work.README.md",
+    "2. Areas/Work",
+    "2. Areas/PKM/PKM.README.md",
+    "2. Areas/PKM",
     "2. Areas/Life/Life.README.md",
-    "PeriodicNotes/2023/Daily/06/2023-06-07.md",
-    "Templates/PARA/README.md",
-    "1. Projects/PKM-LifeOS/Plugin",
-    "1. Projects/PKM-LifeOS",
-    "2. Areas/README.md",
     "2. Areas/Life",
-    "Templates/PeriodicNotes/2023/Daily/06",
-    "Templates/PeriodicNotes/2023/Weekly",
-    "Templates/PeriodicNotes/2023/Monthly",
-    "Templates/PeriodicNotes/2023/Daily",
-    "Templates/PeriodicNotes/2023",
+    "1. Projects/PKM-LifeOS/PeriodicPARA.md",
+    "1. Projects/PKM-LifeOS/LifeOS.README.md",
+    "1. Projects/PKM-LifeOS",
+    "PeriodicNotes/2023/Weekly/2023-W22.md",
+    "3. Resources/摄影摄像/README.md",
+    "4. Archives/育儿-宝宝起名/README.md",
+    "PeriodicNotes/2023/Weekly/2023-W23.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-11.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-10.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-09.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-08.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-07.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-06.md",
+    "PeriodicNotes/2023/Daily/06/2023-06-05.md",
+    "4. Archives/育儿-宝宝起名/规则.md",
+    "4. Archives/育儿-宝宝起名/程序起名.md",
+    "4. Archives/育儿-宝宝起名/林奕如.png",
+    "4. Archives/育儿-宝宝起名/program/package.json",
+    "4. Archives/育儿-宝宝起名/program/nameCandidateList.md",
+    "4. Archives/育儿-宝宝起名/program/index.js",
+    "4. Archives/育儿-宝宝起名/program/README.md",
+    "4. Archives/育儿-宝宝起名/五行/金.md",
+    "4. Archives/育儿-宝宝起名/五行/火.md",
+    "4. Archives/育儿-宝宝起名/五行/水.md",
+    "4. Archives/育儿-宝宝起名/program",
+    "4. Archives/育儿-宝宝起名/五行",
+    "4. Archives/育儿-宝宝起名/baby-name.png",
+    "1. Projects/分享-2023 WOT 分享会/架构图/Polyrepo.svg",
+    "1. Projects/分享-2023 WOT 分享会/架构图/Monorepo.svg",
+    "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.svg",
+    "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.png",
+    "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/rollup-logo.svg",
+    "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/repo-hero-logo-light.svg",
+    "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/money-collect.png",
+    "1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.svg",
     "Templates/HOME.canvas",
-    "Templates/4. Archives/育儿-宝宝起名/林奕如.png",
-    "Templates/4. Archives/育儿-宝宝起名/baby-name.png",
-    "Templates/1. Projects/分享-2023 WOT 分享会/架构图/Polyrepo.svg",
-    "Templates/1. Projects/分享-2023 WOT 分享会/架构图/Monorepo.svg",
-    "Templates/1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.svg",
-    "Templates/1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/warning.png",
-    "Templates/1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/rollup-logo.svg",
-    "Templates/1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/repo-hero-logo-light.svg",
-    "Templates/1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.svg",
-    "Templates/1. Projects/分享-2023 WOT 分享会/Attachments/PPT 素材/monitor.png",
     "hello/HOME.canvas",
     "hello/Templates/HOME.canvas"
   ]
