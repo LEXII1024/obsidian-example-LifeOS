@@ -13,10 +13,10 @@
 ### Husband
 ### Father
 ### Son
-- One phone call with #family/grandpa
-- One phone call with #family/grandma
+- [ ] One phone call with #family/grandpa
+- [ ] One phone call with #family/grandma
 ### Myself
-- Planning for the next quarter
+- [ ] Planning for the next quarter
 
 # Review
 ## Project List

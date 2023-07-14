@@ -19,12 +19,12 @@ ProjectListByTime
 - OKR
 ### Husband
 ### Father
-- Buy a small gift #family/baby 
+- [ ] Buy a small gift #family/baby 
 ### Son
-- One phone call with #family/dad
-- One phone call with #family/mom
+- [ ] One phone call with #family/dad
+- [ ] One phone call with #family/mom
 ### Myself
-- Planning for the next month
+- [ ] Planning for the next month
 
 # Review
 ## Collected this month

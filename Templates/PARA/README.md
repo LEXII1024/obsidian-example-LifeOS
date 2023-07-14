@@ -7,8 +7,8 @@ tags:
 
 # README
 %%Set the project deadline and its result description%%
-- [ ] #YourProjectTag deadline 📅 2023-xx-xx
-- #YourProjectTag key result
+- [ ] deadline 📅 2023-xx-xx
+- key result
 
 ## Task
 %%Query tasks based on the tags field of the [Metadata](https://help.obsidian.md/Editing+and+formatting/Metadata) of the current file, extracted from all the notes%%

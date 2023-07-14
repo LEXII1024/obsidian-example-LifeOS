@@ -21,7 +21,7 @@ ProjectListByTime
 ### Father
 ### Son
 ### Myself
-- Planning for the next week
+- [ ] Planning for the next week
 
 # Review
 ## Collected this week

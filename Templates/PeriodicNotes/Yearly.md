@@ -16,7 +16,7 @@ AreaListByTime
 ### Father
 ### Son
 ### Myself
-- Planning for the next year
+- [ ] Planning for the next year
 
 # Review
 ## Project List
