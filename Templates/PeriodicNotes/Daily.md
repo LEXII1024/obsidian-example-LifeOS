@@ -2,7 +2,7 @@
 
 ## Project List
 %%A snapshot of the project today%%
-<% PeriodicPARA.File.list('1. Projects') %>
+<% PeriodicPARA.Project.snapshot() %>
 
 ## Daily Record
 - %%Your Record%%
