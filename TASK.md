@@ -3,7 +3,7 @@
 ## Focus
 > Important || In progress || Due in 7 days || High priority
 ```tasks
-folder includes PeriodicNotes
+folder includes 0. PeriodicNotes
 not done
 (status.name includes Important) OR (status.name includes In Progress) OR (priority is high) OR (due before in 7 days)
 group by due
@@ -18,14 +18,14 @@ group by folder
 
 ## PeriodicNotes
 ```tasks
-folder includes PeriodicNotes
+folder includes 0. PeriodicNotes
 not done
 sort by filename reverse
 ```
 
 ## Cancelled
 ```tasks
-(folder includes PeriodicNotes) OR (folder includes 1. Projects)
+(folder includes 0. PeriodicNotes) OR (folder includes 1. Projects)
 status.name includes Cancelled
 group by folder
 ```

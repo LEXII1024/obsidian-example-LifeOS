@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "gggg/[Weekly]/gggg-[W]ww",
   "weeklyNoteTemplate": "Templates/PeriodicNotes/Weekly",
-  "weeklyNoteFolder": "PeriodicNotes",
+  "weeklyNoteFolder": "0. PeriodicNotes",
   "localeOverride": "system-default"
 }
